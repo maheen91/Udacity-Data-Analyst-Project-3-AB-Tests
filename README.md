@@ -1,13 +1,10 @@
 Analyze A/B Test Results
+
 This project will assure you have mastered the subjects covered in the statistics lessons. The hope is to have this project be as comprehensive of these topics as possible. Good luck!
 
-Table of Contents
-Introduction
-Part I - Probability
-Part II - A/B Test
-Part III - Regression
 
 Introduction
+
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
 
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
@@ -43,6 +40,7 @@ Use a sample size for each page equal to the ones in ab_data.csv.
 Perform the sampling distribution for the difference in converted between the two pages over 10,000 iterations of calculating an estimate from the null.
 
 Part III - A regression approach
+
 1. In this final part, you will see that the result you acheived in the previous A/B test can also be acheived by performing regression.
 
 
